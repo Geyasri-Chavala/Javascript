@@ -1,5 +1,5 @@
 // Promise definition
-
+ 
 
 let myPromise = new Promise((resolve, reject) => {
     let myStatus = true; // for success msg..
